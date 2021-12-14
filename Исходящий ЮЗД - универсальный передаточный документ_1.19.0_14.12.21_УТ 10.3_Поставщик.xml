@@ -4723,7 +4723,8 @@
 		<Value xsi:type="xs:string">ЮЗД (УПД / УКД / иУПД)</Value>
 		<Value xsi:type="xs:string">ДокументСЧФ</Value>
 		<Value xsi:type="xs:string">Файл</Value>
-		<Value xsi:type="xs:string">Запрос = Новый Запрос;
+		<Value xsi:type="xs:string">//Some shit
+Запрос = Новый Запрос;
 ~ОтправкаИсходнойСчФ:
 
 МассивВидовДокумента = Новый Массив;
