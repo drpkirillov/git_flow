@@ -3303,7 +3303,7 @@
 					<Value xsi:type="xs:string">СведТов</Value>
 					<Value xsi:type="xs:string">// ТЧ - корректировочный УКД
 Результат  = Новый ТаблицаЗначений;
-
+// some UKD shit
 Колонки = Новый Массив;
 Колонки.Добавить("Ссылка");
 Колонки.Добавить("НомГТД");
@@ -4065,6 +4065,26 @@
 					<valueType/>
 					<lastId xsi:type="xs:decimal">-1</lastId>
 				</Value>
+				<Value xsi:type="ValueListType">
+					<valueType/>
+					<lastId xsi:type="xs:decimal">-1</lastId>
+				</Value>
+			</row>
+			<row>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:type="xs:string"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:type="xs:string">someSuperTag</Value>
+				<Value xsi:nil="true"/>
+				<Value xsi:type="xs:boolean">false</Value>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
+				<Value xsi:nil="true"/>
 				<Value xsi:type="ValueListType">
 					<valueType/>
 					<lastId xsi:type="xs:decimal">-1</lastId>
