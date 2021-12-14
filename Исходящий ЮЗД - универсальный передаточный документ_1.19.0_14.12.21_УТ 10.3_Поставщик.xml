@@ -144,6 +144,26 @@
 			</Value>
 		</row>
 		<row>
+			<Value xsi:type="xs:boolean">true</Value>
+			<Value xsi:nil="true"/>
+			<Value xsi:type="xs:string"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:type="xs:string">SomeTag</Value>
+			<Value xsi:nil="true"/>
+			<Value xsi:type="xs:boolean">false</Value>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:nil="true"/>
+			<Value xsi:type="ValueListType">
+				<valueType/>
+				<lastId xsi:type="xs:decimal">-1</lastId>
+			</Value>
+		</row>
+		<row>
 			<row>
 				<row>
 					<Value xsi:type="xs:boolean">true</Value>
@@ -5900,7 +5920,7 @@
     СтруктураДокумента.ПередатДокум          = ВыборкаДокумента.НомерСЧФ + " от " + Формат(ВыборкаДокумента.ДатаСчФ, "ДФ=dd.MM.yyyy");
 
 КонецЦикла;
-
+//som super shit
 Возврат Результат;</Value>
 		<Value xsi:type="xs:boolean">false</Value>
 		<Value xsi:type="ValueListType">
