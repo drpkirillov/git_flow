@@ -2034,7 +2034,7 @@
 Для Каждого Колонка Из Колонки Цикл
 	Результат.Колонки.Добавить(Колонка);
 КонецЦикла;
-
+// some super-puper code from god-dev 2
 Запрос = Новый Запрос;
 Запрос.Текст =
 "ВЫБРАТЬ
@@ -2619,6 +2619,26 @@
 						<valueType/>
 						<lastId xsi:type="xs:decimal">-1</lastId>
 					</Value>
+					<Value xsi:type="ValueListType">
+						<valueType/>
+						<lastId xsi:type="xs:decimal">-1</lastId>
+					</Value>
+				</row>
+				<row>
+					<Value xsi:type="xs:boolean">true</Value>
+					<Value xsi:nil="true"/>
+					<Value xsi:type="xs:string"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:type="xs:string">SomeSuperDuperAG2</Value>
+					<Value xsi:nil="true"/>
+					<Value xsi:type="xs:boolean">false</Value>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
+					<Value xsi:nil="true"/>
 					<Value xsi:type="ValueListType">
 						<valueType/>
 						<lastId xsi:type="xs:decimal">-1</lastId>
